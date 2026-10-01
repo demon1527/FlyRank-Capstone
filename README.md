@@ -23,6 +23,17 @@ Before working with this project, make sure you have the following installed:
 - Git
 - VS Code or another code editor
 
+## AI-Assisted Development
+
+AI tools are used throughout this project to support the development workflow, including:
+
+- Reviewing code and documentation
+- Identifying potential improvements
+- Assisting with debugging
+- Providing development guidance
+
+AI-generated suggestions are reviewed and understood before being implemented.
+
 ## Development Setup
 
 1. Clone the repository.
