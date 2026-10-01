@@ -6,6 +6,12 @@ This repository contains my capstone project for the FlyRank Frontend AI Enginee
 
 The purpose of this repository is to document and develop my work throughout the internship while practicing modern frontend development, Git workflows, and AI-assisted engineering.
 
+## Project Status
+
+🚧 This capstone project is currently in development as part of the FlyRank Frontend AI Engineering Internship.
+
+The repository will be updated throughout the internship as new features, assignments, and frontend AI engineering concepts are implemented.
+
 ## Tech Stack
 
 - HTML
